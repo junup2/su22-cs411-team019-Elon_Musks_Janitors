@@ -6,10 +6,10 @@
 | ----------- | ---------------------- |
 | Team019      |         Team-001       |
 | Elon_Musks_Janitors    |        SampleTeam      |
-| Captain     |   FirstName LastName   |
+| Captain     |   Neil Song   |
 | Captain     |      Captain-Email     |
-| Member1     |   FirstName LastName   |
-| Member1     |      Member2-Email     |
+| Member1     |   Shane Kim   |
+| Member1     |      minkyu2@illinois.edu     |
 | Member2     |   FirstName LastName   |
 | Member2     |      Member3-Email     |
 | Member3     |   FirstName LastName   |
