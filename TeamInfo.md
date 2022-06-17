@@ -4,16 +4,16 @@
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-| Team019      |         Team-001       |
-| Elon_Musks_Janitors    |        SampleTeam      |
+| TeamID      |         Team-019       |
+| TeamName    |        Elon_Musks_Janitors      |
 | Captain     |   Neil Song   |
-| Captain     |      Captain-Email     |
+| Captain     |      ssong44@illinois.edu     |
 | Member1     |   Shane Kim   |
 | Member1     |      minkyu2@illinois.edu     |
-| Member2     |   FirstName LastName   |
-| Member2     |      Member3-Email     |
-| Member3     |   FirstName LastName   |
-| Member3     |      Member4-Email     |
+| Member2     |   Junu Park   |
+| Member2     |      junup2@illinois.edu     |
+| Member3     |   Tyler Chen   |
+| Member3     |      tylerc6@illinois.edu    |
 
 ## Project Information
 
